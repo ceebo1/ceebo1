@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ceebo1
+- 👀 I’m interested in putting getting this termux up and running for nethunter.
+- And i trying to add kahli to my laptop 
+- 🌱 I’m currently learning how to get started,3moths ugh 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+ceebo1/ceebo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
